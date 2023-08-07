@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img height="196" src="https://raw.githubusercontent.com/Ragdata/media/master/project/redeyed-au/logo/256x256-Shield.png" alt="RedEyed Technologies" />
+<img src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-800x400.png" alt="RedEyed Technologies" />
 
 [RedEyed Org & Repo Templates v-0.1.0](https://github.com/redeyed-au/.github/releases/tag/v-0.1.0)
 
@@ -44,26 +44,25 @@ If you like this repository, please give it a ⭐ (it really does help)
 <details>
 <summary><h2><a name="toc">📖 Table of Contents</a></h2></summary>
 
-## 📖 Table of Contents
-
 - [Project Overview](#-project-overview)
 	- [Branch Reliability](#branch-reliability)
 - [What's Included?](#-whats-included)
+  - [Recommended GitHub Apps](#-recommended-github-apps) 
 - [Installation](#-installation)
-  - [Prerequisites](#prerequisites)
 - [Available Support](#-available-support)
 - [Badges](#-badges)
 - [Project Supporters](#-project-supporters)
 - [Author/Maintainer](#-author--maintainer)
 - [Security](#-security)
 - [Contributors](#-contributors)
-- [Copyright & Attributions](#-copyright--attributions)
 - [License](#-license)
 - [Resources](#-resources)
 
 </details>
 
 ## ⭐ [Project Overview](#-table-of-contents)
+
+> ⚠️ This is a specially-named repository which GitHub treats differently to other repositories. [**FIND OUT MORE**](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/)
 
 This repository serves a dual purpose:
 
@@ -95,6 +94,55 @@ The Organization Profile Template contains ALL the community health files and is
 **Subordinate Repository Template:**
 
 The Subordinate Repository Template contains just the essentials, and will use the community health files provided by the Organization's `.github` repository.
+
+**Organization Profile Template Contents:**
+
+1. **README TEMPLATE** - which not only looks great, it includes a collapsable Table of Contents linking to all the most important headings a top-notch README file needs.
+2. **COMMUNITY HEALTH FILES:**
+   1. [CODE OF CONDUCT](https://github.com/redeyed-au/.github/blob/master/.github/CODE_OF_CONDUCT.md) - based on the standard Contributor Covenant. [Learn More](https://docs.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project)
+   2. [GOVERNANCE POLICY](https://github.com/redeyed-au/.github/blob/master/.github/GOVERNANCE.md) - an in-depth document describing the rules governing your community. [Learn More](https://opensource.guide/leadership-and-governance/)
+   3. [CONTRIBUTOR'S GUIDE](https://github.com/redeyed-au/.github/blob/master/.github/CONTRIBUTING.md) - a basic guide for your project's contributors. [Learn More](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
+   4. [SECURITY POLICY](https://github.com/redeyed-au/.github/blob/master/.github/SECURITY.md) - a default Security Policy for your project. [Learn More](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
+   5. [SUPPORT DOC](https://github.com/redeyed-au/.github/blob/master/.github/SUPPORT.md) - a template for listing project support options. [Learn More](https://docs.github.com/en/github/building-a-strong-community/adding-support-resources-to-your-project)
+   6. [PULL REQUEST TEMPLATE](https://github.com/redeyed-au/.github/blob/master/.github/PULL_REQUEST_TEMPLATE.md) - a default Pull Request Template for contributors. [Learn More](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+   7. [CODEOWNERS](https://github.com/redeyed-au/.github/blob/master/.github/CODEOWNERS) - a template to define who owns what code. [Learn More](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
+   8. [FUNDING](https://github.com/redeyed-au/.github/blob/master/.github/FUNDING.yml) - a file which adds a sponsorship button to your repo. [Learn More](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)
+   9. [Dependabot Config](https://github.com/redeyed-au/.github/blob/master/.github/dependabot.yml) - a default config file for Dependabot (security bot). [Learn More](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file)
+3. **MULTIPLE ISSUE TEMPLATES:**
+   1. [Bug Issue Template](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml)
+   2. [Contribution Submission Template](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/contribution.yml)
+   3. [Documentation Issue Template](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/docs-issue.yml)
+   4. [Feature Request Template](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/feature-request.yml)
+   5. [Sponsorship Issue Template](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/sponsor-issue.yml) 
+   6. [Question / Support Issue Template](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/support-issue.yml)
+   7. [config.yml](https://github.com/redeyed-au/.github/blob/master/.github/ISSUE_TEMPLATE/config.yml)
+4. **Common Configuration Files:**
+   1. [.all-contributorsrc](https://github.com/redeyed-au/.github/blob/master/.all-contributorsrc) - config for all-contributors bot. [LEARN MORE](https://allcontributors.org)
+   2. [.editorconfig](https://github.com/redeyed-au/.github/blob/master/.editorconfig) - commonly-used and well-supported config for code editors
+   3. [.gitattributes](https://github.com/redeyed-au/.github/blob/master/.gitattributes) - config file ensuring git doesn't screw up line endings
+   4. [.gitignore](https://github.com/redeyed-au/.github/blob/master/.gitignore) - every repository should have one ...
+   5. [.licrc](https://github.com/redeyed-au/.github/blob/master/.licrc) - config for [Licensebat](https://github.com/licensebat) software license compliance app
+5. **ESSENTIAL FILES:**
+   1. [CITATION.cff](https://github.com/redeyed-au/.github/blob/master/CITATION.cff) - helps others correctly cite your repo
+   2. [CONTRIBUTORS](https://github.com/redeyed-au/.github/blob/master/CONTRIBUTORS.md) - a template file for the all-contributors bot to use
+   3. [COPYRIGHT](https://github.com/redeyed-au/.github/blob/master/COPYRIGHT) - your statement of copyright + a place to list attributions
+   4. [LICENSE](https://github.com/redeyed-au/.github/blob/master/LICENSE) - a copy of the MIT license. [Learn More](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
+### 🤖 [Recommended GitHub Apps](#toc)
+
+In a directory of their own (so they don't cause you any unexpected issues) you can find a collection of config files for recommended GitHub Apps that I thought you might find useful.
+
+**ESSENTIAL APPS:**
+
+[**GitHub Label Manager**](https://github.com/erdaltsksn/gh-label)
+
+If you want to reliably manage labels for each of your repositories, I'd recommend you take a look at [GH-Label](https://github.com/erdaltsksn/gh-label).  It takes a little more setup than others, but it's worth it in the long run.  Honestly, I tried the _Settings Bot_ and a couple of other workflow-based solutions, but they just didn't perform consistently at all whenever I had more than 10 labels configured.  Don't waste your time trying to use anything else.
+
+**HIGHLY RECOMMENDED:**
+
+1. [Welcome Bot](https://probot.github.io/apps/welcome/) - configured by [`.github/.bots/config.yml`](https://github.com/redeyed-au/.github/blob/master/.github/.bots/config.yml)
+2. [Sentiment Bot](https://probot.github.io/apps/sentiment-bot/) - configured by [`.github/.bots/config.yml`](https://github.com/redeyed-au/.github/blob/master/.github/.bots/config.yml)
+3. [No Response Bot](https://probot.github.io/apps/no-response/) - configured by [`.github/.bots/no-response.yml`](https://github.com/redeyed-au/.github/blob/master/.github/.bots/no-response.yml)
 
 [`^ Top`](#toc)
 
