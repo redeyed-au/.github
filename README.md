@@ -168,10 +168,10 @@ When setting up repositories under your Organization Profile, you can use the fi
 
 ### Project Resources
 
-- ✅ [Issues Register](https://github.com/redeyed-au/.github/issues)
-- ✅ [Project Site](https://redeyed-au.github.io/.github)
+- [Issues Register](https://github.com/redeyed-au/.github/issues)
+- [Project GH-Pages Site](https://redeyed-au.github.io/.github)
 
-<details><summary><h3>Community Resources</h3></summary>
+### Community Resources
 
 - [**The RedEyed Community Discord Server**](https://discord.gg/s6gZZUc67y)
 
@@ -184,8 +184,6 @@ When setting up repositories under your Organization Profile, you can use the fi
 	- [Security Overview](https://github.com/redeyed-au/.github/security)
 	- [Security Advisories](https://github.com/redeyed-au/.github/security/advisories)
 	- [Dependabot Alerts](https://github.com/redeyed-au/.github/security/dependabot)
-
-</details>
 
 [`^ Top`](#toc)
 
